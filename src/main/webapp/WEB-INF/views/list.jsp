@@ -18,6 +18,7 @@
                 <th>포지션</th>
             </tr>
         </thead>
+        <a href="login">연습 페이지로 이동하기</a>
         <tbody>
             <c:forEach items="${memberList}" var="member">
                 <tr>
